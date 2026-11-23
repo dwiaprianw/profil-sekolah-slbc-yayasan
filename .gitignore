@@ -1,0 +1,13 @@
+# Demo videos & local media
+*.mp4
+*.mov
+*.webm
+
+# Local agent tooling
+.agents/
+AGENTS.md
+GEMINI.md
+
+# OS files
+.DS_Store
+Thumbs.db
